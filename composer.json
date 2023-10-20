@@ -1,0 +1,16 @@
+{
+  "name": "1452479141/hello-world",
+  "description": "A simple Hello World package",
+  "type": "library",
+  "authors": [
+    {
+      "name": "1452479141",
+      "email": "1452479141@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "HelloWorld\\": "src/"
+    }
+  }
+}
