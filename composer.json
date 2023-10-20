@@ -8,6 +8,7 @@
       "email": "1452479141@qq.com"
     }
   ],
+  "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
       "HelloWorld\\": "src/"
